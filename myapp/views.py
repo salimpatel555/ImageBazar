@@ -91,5 +91,6 @@ def delete(request,id):
 
 def profile(request):
     return render(request,'profile.html')   
-
     
+
+# My ImageBazaar Application
